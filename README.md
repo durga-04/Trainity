@@ -1,2 +1,2 @@
 # Trainity
-Projects that helped me in gaining knowledge in Data analytics.
+Projects that enhanced my understanding of data analytics.
